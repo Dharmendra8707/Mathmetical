@@ -1,5 +1,5 @@
 
-
+// count the minimum //
   let count="";
 
   let arr =[5,7,,6,9,8,10];
